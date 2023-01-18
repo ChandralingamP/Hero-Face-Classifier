@@ -1,5 +1,5 @@
 ![](initial_page.png)
-### *n this data science and machine learning project, we classify Heros. We restrict classification to only 5 people,*
+### *In this data science and machine learning project, we classify Heros. We restrict classification to only 5 people,*
 1) Chris Hemsworth
 2) Dwayne Johnson
 3) Johnny Depp
